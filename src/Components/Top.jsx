@@ -39,7 +39,7 @@ export default function Top() {
           />
 
           <Carousel.Caption>
-            <h3>SGet Your Movie reviews Here</h3>
+            <h3>Get Your Movie reviews Here</h3>
             <p>More</p>
           </Carousel.Caption>
         </Carousel.Item>
