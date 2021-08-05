@@ -33,7 +33,7 @@ export default class moviesClass extends Component {
               <div className="row">
               <div className="col-12">
               <div>
-                <Card style={{ width: "30rem", }}>
+                <Card style={{ width: "40rem", }}>
                   <Card.Img
                     variant="top"
                     src= {movie.multimedia.src}
